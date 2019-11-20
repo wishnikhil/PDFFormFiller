@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PDFFormFiller",
-    "\\PDFFormFillerBC"
+    "\\PDFFormFiller\\bin"
   ],
-  "SelectedNode": "\\PDFFormFiller.sln",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
