@@ -1,0 +1,914 @@
+<PDFAllFields>
+<PDFFields>
+<PDFField key ="IsPositionInGlobalTalentListNo" value = "1" desc="Put 1 if Occupation is in Global Talent Occupation List"></PDFField>
+<PDFField key ="IsPositionInGlobalTalentListYes" value = "" desc="Put 1 if Occupation is NOT in Global Talent Occupation List"></PDFField>
+<PDFField key ="IsInnovativeEmployerRefferedbyESDCDesigPartnerYes" value = "" desc="Put 1 if You are referred by ESDC referred Partner but not in GlobalTalent Occupation List"></PDFField>
+<PDFField key ="IsInnovativeEmployerRefferedbyESDCDesigPartnerNo" value = "" desc="Put 1 if You are NOT referred by ESDC referred Partner but not in GlobalTalent Occupation List"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerOrgName" value = "" desc="Designated Referral Partner Organisation Name"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerFirstName" value = "" desc="Principal Designated Referral Partner First Name"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerMiddleName" value = "" desc="Principal Designated Referral Partner Middle Name"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerLastName" value = "" desc="Principal Designated Referral Partner Last Name"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerPhone" value = "" desc="Principal Designated Referral Partner Tel Number with Ext"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerAltPhone" value = "" desc="Principal Designated Referral Partner alternate Tel Number with Ext"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerFax" value = "" desc="Principal Designated Referral Partner Fax"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerEmail" value = "" desc="Principal Designated Referral Partner Email"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerPreferredLangOral" value = "" desc="Put 0 for English and 1 for French Oral Preferred Language for Referral Partner"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerPreferredLangWritten" value = "" desc="Put 0 for English and 1 for French Written Preferred Language for Referral Partner"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerFirstName" value = "" desc="Alternate Principal Designated Referral Partner First Name"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerMiddleName" value = "" desc="Alternate Principal Designated Referral Partner Middle Name"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerLastName" value = "" desc="Alternate Principal Designated Referral Partner Last Name"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerPhone" value = "" desc="Alternate Principal Designated Referral Partner Tel Number with Ext"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerAltPhone" value = "" desc="Alternate Principal Designated Referral Partner alternate Tel Number with Ext"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerFax" value = "" desc="Alternate Principal Designated Referral Partner Fax"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerEmail" value = "" desc="Alternate Principal Designated Referral Partner Email"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerPreferredLangOral" value = "" desc="Put 0 for English and 1 for French Oral Preferred Language for Alternate Referral Partner"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerPreferredLangWritten" value = "" desc="Put 0 for English and 1 for French Written Preferred Language for Alternate Referral Partner"></PDFField>
+<PDFField key ="EmployerBusinessLegalName" value = "Vanhack" desc="Employer Business Legal Name"></PDFField>
+<PDFField key ="EmployerBusinessAddressLine1" value = "Canada" desc="Employer Business Address Line 1"></PDFField>
+<PDFField key ="EmployerBusinessAddressLine2" value = "Canada" desc="Employer Business Address Line 2"></PDFField>
+<PDFField key ="EmployerBusinessCity" value = "Toronto" desc="Employer Business City"></PDFField>
+<PDFField key ="EmployerBusinessProvince" value = "Toronto" desc="Employer Business Province"></PDFField>
+<PDFField key ="EmployerBusinessCountry" value = "Canada" desc="Employer Business Country"></PDFField>
+<PDFField key ="EmployerBusinessPostalCode" value = "MB41B3" desc="Employer Business Postal Code"></PDFField>
+<PDFField key ="EmployerBusinessMailAddressLine1" value = "Canada" desc="Employer Business Mail Address Line 1"></PDFField>
+<PDFField key ="EmployerBusinessMailAddressLine2" value = "Canada" desc="Employer Business Mail Address Line 2"></PDFField>
+<PDFField key ="EmployerBusinessMailCity" value = "Toronto" desc="Employer Business Mail City"></PDFField>
+<PDFField key ="EmployerBusinessMailProvince" value = "Toronto" desc="Employer Business Mail Province"></PDFField>
+<PDFField key ="EmployerBusinessMailCountry" value = "Canada" desc="Employer Business Mail Country"></PDFField>
+<PDFField key ="EmployerBusinessMailPostalCode" value = "MB41B3" desc="Employer Business Mail Postal Code"></PDFField>
+<PDFField key ="EmployerBusinessWebsite" value = "vanhack.com" desc="Employer Business Website"></PDFField>
+<PDFField key ="EmployerBusinessStartDate" value = "2014-01-01" desc="Employer Business Start Date"></PDFField>
+<PDFField key ="EmployerOrgTypeCorporation" value = "1" desc="Put 1 if Employer Organisation Type Is Corporation"></PDFField>
+<PDFField key ="EmployerOrgTypePartnership" value = "" desc="Put 1 if Employer Organisation Type is Partnership"></PDFField>
+<PDFField key ="EmployerOrgTypeCooperative" value = "" desc="Put 1 if Employer Organisation Type is Cooperative"></PDFField>
+<PDFField key ="EmployerOrgTypeSoleProprietorship" value = "" desc="Put 1 if Employer Organisation Type is Sole Proprietorship"></PDFField>
+<PDFField key ="EmployerOrgTypeNotProfit" value = "" desc="Put 1 if Employer Organisation Type is Not Profit"></PDFField>
+<PDFField key ="EmployerOrgTypeRegisteredCharity" value = "" desc="Put 1 if Employer Organisation Type is Registered Charity"></PDFField>
+<PDFField key ="EmployerEmployeeEmployedNumber" value = "700" desc="Number of Employees Employed under CRA Business Number"></PDFField>
+<PDFField key ="EmployerAnnualGrossRevenue" value = "1000000" desc="Employer Annual Gross Revenue of Business"></PDFField>
+<PDFField key ="EmployerESDCSupportedYesOrNo" value = "0" desc="Put 0 if NOT supported by ESDC Program and 1 if supported by ESDC Program "></PDFField>
+<PDFField key ="EmployerESDCSupportedDetailsIfYes" value = "" desc="If supported by ESDC Program then Detail"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerJobTitle" value = "CTO" desc="Principal Employer Job Title"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerFirstName" value = "Tiago" desc="Principal Employer First Name"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerMiddleName" value = "" desc="Principal Employer Middle Name"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerLastName" value = "" desc="Principal Employer Last Name"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerPhone" value = "11111111-11" desc="Principal Employer Phone with Extension"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerAltPhone" value = "2222222-22" desc="Principal Employer Alternate Phone with Extension"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerFax" value = "333333333" desc="Principal Employer Fax"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerEmail" value = "tiago@vanhack.com" desc="Principal Employer Email"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerPreferredOralLanguage" value = "0" desc="Put 0 for English and 1 for French Principal Employer Preferred Oral Language"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerPreferredWrittenLanguage" value = "0" desc="Put 0 for English and 1 for French Principal Employer Preferred Written Language"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerJobTitle" value = "" desc="Alternate Employer Job Title"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerFirstName" value = "" desc="Alternate Employer First Name"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerMiddleName" value = "" desc="Alternate Employer Middle Name"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerLastName" value = "" desc="Alternate Employer Last Name"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerPhone" value = "" desc="Alternate Employer Phone"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerAltPhone" value = "" desc="Alternate Employer Alternate Phone"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerFax" value = "" desc="Alternate Employer Fax"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerEmail" value = "" desc="Alternate Employer Email"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerPreferredOralLanguage" value = "" desc="Put 0 for English and 1 for French Alternate Employer Preferred Oral Language"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerPreferredWrittenLanguage" value = "" desc="Put 0 for English and 1 for French Alternate Employer Preferred Written Language"></PDFField>
+<PDFField key ="ThirdPartyIsThirdPartyNeeded" value = "1" desc="Put 0 if third Party is required for immigration process and 1 if not required"></PDFField>
+<PDFField key ="CompanyAccountOrCodeNumber1Page2" value = "111111111" desc="CRA Payroll Deduction Program Account Number digit prior to RP"></PDFField>
+<PDFField key ="CompanyAccountOrCodeNumber2Page2" value = "1111" desc="CRA Payroll Deduction Program Account Number digit after RP"></PDFField>
+<PDFField key ="ThirdPartyBusinessLegalName" value = "" desc="Third Party Business Legal Name"></PDFField>
+<PDFField key ="ThirdPartyBusinessOperateName" value = "" desc="Third Party Business Operating Name"></PDFField>
+<PDFField key ="ThirdPartyEmployerJobTitle" value = "" desc="Third Party Employer Job Title"></PDFField>
+<PDFField key ="ThirdPartyEmployerFirstName" value = "" desc="Third Party Employer First Name"></PDFField>
+<PDFField key ="ThirdPartyEmployerMiddleName" value = "" desc="Third Party Employer Middle Name"></PDFField>
+<PDFField key ="ThirdPartyEmployerLastName" value = "" desc="Third Party Employer Last Name"></PDFField>
+<PDFField key ="ThirdPartyEmployerPhone" value = "" desc="Third Party Employer Phone with Extension"></PDFField>
+<PDFField key ="ThirdPartyEmployerAltPhone" value = "" desc="Third Party Employer Alternate Phone with Extension"></PDFField>
+<PDFField key ="ThirdPartyEmployerFax" value = "" desc="Third Party Employer Fax"></PDFField>
+<PDFField key ="ThirdPartyEmployerEmail" value = "" desc="Third Party Employer Email"></PDFField>
+<PDFField key ="ThirdPartyEmployerPreferredOralLanguage" value = "" desc="Put 0 for English and 1 for French Third Party Employer Preferred Oral Language"></PDFField>
+<PDFField key ="ThirdPartyEmployerPreferredWrittenLanguage" value = "" desc="Put 0 for English and 1 for French Third Party Employer Preferred Written Language"></PDFField>
+<PDFField key ="ThirdPartyBusinessAddressLine1" value = "" desc="Third Party Business Address Line 1"></PDFField>
+<PDFField key ="ThirdPartyBusinessAddressLine2" value = "" desc="Third Party Business Address Line 2"></PDFField>
+<PDFField key ="ThirdPartyBusinessCity" value = "" desc="Third Party Business City"></PDFField>
+<PDFField key ="ThirdPartyBusinessProvince" value = "" desc="Third Party Business Province"></PDFField>
+<PDFField key ="ThirdPartyBusinessCountry" value = "" desc="Third Party Business Country"></PDFField>
+<PDFField key ="ThirdPartyBusinessPostalCode" value = "" desc="Third Party Business Postal Code"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailAddressLine1" value = "" desc="Third Party Business Mail Address Line 1"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailAddressLine2" value = "" desc="Third Party Business Mail Address Line 2"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailCity" value = "" desc="Third Party Business Mail City"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailProvince" value = "" desc="Third Party Business Mail Province"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailCountry" value = "" desc="Third Party Business Mail Country"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailPostalCode" value = "" desc="Third Party Business Mail Postal Code"></PDFField>
+<PDFField key ="ThirdPartyIsPaidByEmployerforLIMA" value = "" desc="Put 0 if Third Party is Paid by Employer for LIMA else 1 if not Paid"></PDFField>
+<PDFField key ="ThirdPartyIsMemberOfICCRC" value = "" desc="Put 1 if Third Party Is Member Of ICCRC"></PDFField>
+<PDFField key ="ThirdPartyICCRCMemberID" value = "" desc="Third Party ICCRC Member ID"></PDFField>
+<PDFField key ="ThirdPartyIsMemberLawSocietyOfProvince" value = "" desc="Put 1 if Third Party Is Member Law Society Of Province"></PDFField>
+<PDFField key ="ThirdPartyMemberOfWhichProvince" value = "" desc="Third Party Member Of Which Province"></PDFField>
+<PDFField key ="ThirdPartyMemberProvinceMemberID" value = "" desc="Third Party Member Province Member ID"></PDFField>
+<PDFField key ="ThirdPartyIsNotariesAssnOfCanadaMember" value = "" desc="Put 1 if Third Party Is Notaries Assn Of Canada Member"></PDFField>
+<PDFField key ="ThirdPartyMemberNotariesAssnID" value = "" desc="Third Party Member Notaries Assn ID"></PDFField>
+<PDFField key ="ThirdPartyIsOtherMember" value = "" desc="Put 1 if Third Party Is Other Member"></PDFField>
+<PDFField key ="ThirdPartyMemberOtherInfo" value = "" desc="Third Party Member Other Info"></PDFField>
+<PDFField key ="ThirdPartyIsFamilyMemberOrFriend" value = "" desc="Put 1 if Third Party Is Family Member Or Friend"></PDFField>
+<PDFField key ="ThirdPartyIsMemberNGO" value = "" desc="Put 1 if Third Party Is Member NGO"></PDFField>
+<PDFField key ="ThirdPartyIsMemberICCRC" value = "" desc="Put 1 if Third Party Is Member ICCRC"></PDFField>
+<PDFField key ="ThirdPartyIsOtherNonPaidEmployerMember" value = "" desc="Put 1 if Third Party Is Other Non Paid Employer Member"></PDFField>
+<PDFField key ="ThirdPartyOtherNonPaidMemberInfo" value = "" desc="Third Party Other Non Paid Member Info"></PDFField>
+<PDFField key ="JobOfferJobTitle" value = "Developer" desc="Job Offer Job Title"></PDFField>
+<PDFField key ="JobOfferNationalOccupnClass" value = "2" desc="Job Offer National Occupation Class"></PDFField>
+<PDFField key ="JobOfferTFWNumberRequested" value = "20" desc="Job Offer TFW Number Requested"></PDFField>
+<PDFField key ="CompanyAccountOrCodeNumber1Page3" value = "111111111" desc="CRA Payroll Deduction Program Account Number digit prior to RP"></PDFField>
+<PDFField key ="CompanyAccountOrCodeNumber2Page3" value = "1111" desc="CRA Payroll Deduction Program Account Number digit after RP"></PDFField>
+<PDFField key ="JobOfferMainDuties" value = "Developing Application" desc="Job Offer Main Duties"></PDFField>
+<PDFField key ="JobOfferEmplmntStartDate" value = "2019-12-30" desc="Job Offer Employment Start Date (YYYY-MM-DD)"></PDFField>
+<PDFField key ="JobOfferEmplmntDurationNumber" value = "3" desc="Job Offer Employment Duration Number"></PDFField>
+<PDFField key ="JobOfferExpectedDurationInDays" value = "900" desc="Job Offer Expected Duration In Days"></PDFField>
+<PDFField key ="JobOfferExpectedDurationInWeek" value = "" desc="Job Offer Expected Duration In Week"></PDFField>
+<PDFField key ="JobOfferExpectedDurationInMonth" value = "" desc="Job Offer Expected Duration In Month"></PDFField>
+<PDFField key ="JobOfferExpectedDurationInYear" value = "3" desc="Job Offer Expected Duration In Year"></PDFField>
+<PDFField key ="JobOfferEmplmntDurationRationale" value = "" desc="Job Offer Employment Duration Rationale"></PDFField>
+<PDFField key ="JobOfferIsPositionUnionPart" value = "0" desc="Put 0 if Job is not a Part of Union else 1 if its a part of Union"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntOral" value = "1" desc="Put 1 if Job Offer Require Language Ability Oral"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntOralEng" value = "1" desc="Put 1 if Job Offer Require Language Ability Oral English"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntOralFrench" value = "" desc="Put 1 if Job Offer Require Language Ability Oral French"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntOralEngAndFrench" value = "" desc="Put 1 if Job Offer Require Language Ability Oral English and French"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntWriting" value = "1" desc="Put 1 if Job Offer Require Language Ability Writing"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntWritingEng" value = "1" desc="Put 1 if Job Offer Require Language Ability Writing English"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntWritingFrench" value = "" desc="Put 1 if Job Offer Require Language Ability Writing French"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntWritingEngAndFrench" value = "" desc="Put 1 if Job Offer Require Language Ability Writing English and French"></PDFField>
+<PDFField key ="JobOfferIsSpecificLangNotNeeded" value = "" desc="Put 1 if Job Offer does not need specific Language"></PDFField>
+<PDFField key ="JobOfferSpecificLangNotNeededDetail" value = "" desc="Job Offer Specific Language Not Needed Detail"></PDFField>
+<PDFField key ="JobOfferIsLangOtherThanEngOrFrench" value = "" desc="Put 1 if Job Offer require Language Other Than English Or French"></PDFField>
+<PDFField key ="JobOfferLangOtherThanEngOrFrenchDetail" value = "" desc="Job Offer Language Other Than English Or French Detail"></PDFField>
+<PDFField key ="JobOfferMinEducationReqmnt" value = "3" desc="Put 0 if minimum Job Requirement is Doctorate/PhD 1 if Doctor of Medicine 2 if Master Degree 3 if Bachelor Degree 4 if College level diploma 5 if apprenticeship diploma 6 if Trade Diploma 7 if Secondary School 8 if Vocational School Diploma 9 if no formal education is required"></PDFField>
+<PDFField key ="JobOfferAdditionalInfo" value = "" desc="Job Offer Additional Info"></PDFField>
+<PDFField key ="JobOfferMinExpOrSkillNeeded" value = "" desc="Job Offer Minimum Experience Or Skill Needed"></PDFField>
+<PDFField key ="JobOfferIsTriedToRecruitCanadianOrPermResidentYes" value = "1" desc="Put 1 if Tried To Recruit Canadian Or Permanent Resident"></PDFField>
+<PDFField key ="JobOfferPriorRecruitCanadianOrPermResidentDetail" value = "Did webinars" desc="Effort to Recruit Canadian Or Permanent Resident Detail"></PDFField>
+<PDFField key ="JobOfferIsTriedToRecruitCanadianOrPermResidentNo" value = "" desc="Put 1 if NOT Tried To Recruit Canadian Or Permanent Resident"></PDFField>
+<PDFField key ="JobOfferNoPriorRecruitCanadianOrPermResidentDetail" value = "" desc="Reason why not Recruit Canadian Or Permanent Resident Detail"></PDFField>
+<PDFField key ="JobOfferIsCanadianEmployeeLaidOff" value = "0" desc="Put 0 if Canadian Employee NOT Laid Off and 1 if Laid OFF"></PDFField>
+<PDFField key ="JobOfferCanadianEmployeeLaidOffNumber" value = "" desc="Canadian Employee Laid Off Number"></PDFField>
+<PDFField key ="JobOfferCanadianEmployeeTFWLaidOffNumber" value = "" desc="Canadian Employee TFW Laid Off Number"></PDFField>
+<PDFField key ="JobOfferEmployeeLaidOffReason" value = "" desc="Employee Laid Off Reason"></PDFField>
+<PDFField key ="JobOfferIsHiringTFWLeadToJobLoss" value = "0" desc="Put 0 if Hiring TFW NOT lead to Job Loss else 1 if it leade to Job Loss"></PDFField>
+<PDFField key ="JobOfferHiringTFWLeadToJobLossDetails" value = "" desc="Hiring TFW Lead To Job Loss Details"></PDFField>
+<PDFField key ="CompensationLowWage" value = "20" desc="Compensation Low Wage per Hour"></PDFField>
+<PDFField key ="CompensationHighWage" value = "60" desc="Compensation High Wage per Hour"></PDFField>
+<PDFField key ="CompensationIsNoEmployeeWorking" value = "" desc="Put 1 if No Employee Working in this Occupation"></PDFField>
+<PDFField key ="CompensationIsJobOfferCoveredByLIMA" value = "0" desc="Put 0 if Job Offer with duration Covered By LIMA else 1"></PDFField>
+<PDFField key ="CompensationIfNotJobOfferCoveredByLIMADetail" value = "" desc="If Not Job Offer Covered By LIMA then Detail"></PDFField>
+<PDFField key ="CompensationTFWWorkHourPerDay" value = "8" desc="TFW Work Hour Per Day"></PDFField>
+<PDFField key ="CompensationTFWWorkHourPerWeek" value = "40" desc="TFW Work Hour Per Week"></PDFField>
+<PDFField key ="CompensationTFWWorkHourPerMonth" value = "" desc="TFW Work Hour Per Month"></PDFField>
+<PDFField key ="CompensationTFWOfferedPerHour" value = "40" desc="TFW Offered Per Hour"></PDFField>
+<PDFField key ="CompensationTFWOvertimePerHour" value = "30" desc="TFW Overtime Per Hour"></PDFField>
+<PDFField key ="CompensationTFWOvertimeStartingAfterHourPerDay" value = "1" desc="TFW Overtime Starting After Hour Per Day"></PDFField>
+<PDFField key ="CompensationTFWOvertimeStartingAfterHourPerWeek" value = "" desc="TFW Overtime Starting After Hour Per Week"></PDFField>
+<PDFField key ="CompensationSalaryIsCoversionOtherThanCanadaDollar" value = "" desc="Put 0 if Currency is Canadian else 1 if not Canadian Dollar"></PDFField>
+<PDFField key ="CompensationSalaryCoversionOtherThanCanadaDollarDetail" value = "" desc="Coversion Factor if Other Than Canada Dollar Detail"></PDFField>
+<PDFField key ="CompensationIsDisabilityBenefits" value = "1" desc="Put 1 if Disability Benefits"></PDFField>
+<PDFField key ="CompensationIsDentalInsurance" value = "1" desc="Put 1 if Dental Insurance"></PDFField>
+<PDFField key ="CompensationIsPension" value = "" desc="Put 1 if Pension"></PDFField>
+<PDFField key ="CompensationIsExtendedMedicalInsurance" value = "1" desc="Put 1 if Extended Medical Insurance"></PDFField>
+<PDFField key ="CompensationOtherBenefitsDetails" value = "" desc="Other Benefits Details"></PDFField>
+<PDFField key ="CompensationVacationDays" value = "28" desc="Vacation Days"></PDFField>
+<PDFField key ="CompensationVacationRemuneration" value = "" desc="Vacation Remuneration"></PDFField>
+<PDFField key ="WorkLocationPrincipalActivity" value = "Software Development" desc="Work Location Principal Business Activity"></PDFField>
+<PDFField key ="WorkLocationCommercialName" value = "Vanhack" desc="Work Location Commercial Name"></PDFField>
+<PDFField key ="WorkLocationPrimaryOfTFW" value = "" desc="Work Location Primary of TFW"></PDFField>
+<PDFField key ="WorkLocationPrimaryOfTFWCity" value = "Canada" desc="Work Location Primary Of TFW City"></PDFField>
+<PDFField key ="WorkLocationPrimaryOfTFWProvince" value = "Canada" desc="Work Location Primary Of TFW Province"></PDFField>
+<PDFField key ="WorkLocationPrimaryOfTFWPostalCode" value = "MB41B3" desc="Work Location Primary Of TFW Postal Code"></PDFField>
+<PDFField key ="WorkLocationOtherOfTFW" value = "" desc="Work Location Other Of TFW"></PDFField>
+<PDFField key ="WorkLocationOtherOfTFWCity" value = "" desc="Work Location Other Of TFW City"></PDFField>
+<PDFField key ="WorkLocationOtherOfTFWProvince" value = "" desc="Work Location Other Of TFW Province"></PDFField>
+<PDFField key ="WorkLocationOtherOfTFWPostalCode" value = "" desc="Work Location Other Of TFW Postal Code"></PDFField>
+<PDFField key ="WorkLocationIsLabourDispute" value = "0" desc="Put 0 if NO labour dispute in Work Location else 1"></PDFField>
+<PDFField key ="WorkLocationLabourDisputeInfo" value = "" desc="Work Location Labour Dispute Info"></PDFField>
+<PDFField key ="LabourMarketBenefitIsPlan" value = "0" desc="Put 0 if NO Labour Market Benefit Plan 1 if Labour Market Benefit Plan"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryWhatAdvantage" value = "" desc="Mandatory Benefit achieved by hiring a TFW for the Position"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity1" value = "" desc="Labour Market Benefit MandatoryActivity1"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget1" value = "" desc="Labour Market Benefit MandatoryTarget1"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate1" value = "" desc="Labour Market Benefit MandatoryStartDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate1" value = "" desc="Labour Market Benefit MandatoryEndDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity2" value = "" desc="Labour Market Benefit MandatoryActivity2"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget2" value = "" desc="Labour Market Benefit MandatoryTarget2"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate2" value = "" desc="Labour Market Benefit MandatoryStartDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate2" value = "" desc="Labour Market Benefit MandatoryEndDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity3" value = "" desc="Labour Market Benefit MandatoryActivity3"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget3" value = "" desc="Labour Market Benefit MandatoryTarget3"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate3" value = "" desc="Labour Market Benefit MandatoryStartDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate3" value = "" desc="Labour Market Benefit MandatoryEndDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity4" value = "" desc="Labour Market Benefit MandatoryActivity4"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget4" value = "" desc="Labour Market Benefit MandatoryTarget4"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate4" value = "" desc="Labour Market Benefit MandatoryStartDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate4" value = "" desc="Labour Market Benefit MandatoryEndDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity5" value = "" desc="Labour Market Benefit MandatoryActivity5"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget5" value = "" desc="Labour Market Benefit MandatoryTarget5"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate5" value = "" desc="Labour Market Benefit MandatoryStartDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate5" value = "" desc="Labour Market Benefit MandatoryEndDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity6" value = "" desc="Labour Market Benefit MandatoryActivity6"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget6" value = "" desc="Labour Market Benefit MandatoryTarget6"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate6" value = "" desc="Labour Market Benefit MandatoryStartDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate6" value = "" desc="Labour Market Benefit MandatoryEndDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1WhatAdvantage" value = "" desc="Labour Market Benefit Complementary1WhatAdvantage"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity1" value = "" desc="Labour Market Benefit Complementary1Activity1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target1" value = "" desc="Labour Market Benefit Complementary1Target1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate1" value = "" desc="Labour Market Benefit Complementary1StartDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate1" value = "" desc="Labour Market Benefit Complementary1EndDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity2" value = "" desc="Labour Market Benefit Complementary1Activity2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target2" value = "" desc="Labour Market Benefit Complementary1Target2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate2" value = "" desc="Labour Market Benefit Complementary1StartDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate2" value = "" desc="Labour Market Benefit Complementary1EndDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity3" value = "" desc="Labour Market Benefit Complementary1Activity3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target3" value = "" desc="Labour Market Benefit Complementary1Target3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate3" value = "" desc="Labour Market Benefit Complementary1StartDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate3" value = "" desc="Labour Market Benefit Complementary1EndDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity4" value = "" desc="Labour Market Benefit Complementary1Activity4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target4" value = "" desc="Labour Market Benefit Complementary1Target4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate4" value = "" desc="Labour Market Benefit Complementary1StartDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate4" value = "" desc="Labour Market Benefit Complementary1EndDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity5" value = "" desc="Labour Market Benefit Complementary1Activity5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target5" value = "" desc="Labour Market Benefit Complementary1Target5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate5" value = "" desc="Labour Market Benefit Complementary1StartDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate5" value = "" desc="Labour Market Benefit Complementary1EndDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity6" value = "" desc="Labour Market Benefit Complementary1Activity6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target6" value = "" desc="Labour Market Benefit Complementary1Target6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate6" value = "" desc="Labour Market Benefit Complementary1StartDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate6" value = "" desc="Labour Market Benefit Complementary1EndDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2WhatAdvantage" value = "" desc="Labour Market Benefit Complementary2WhatAdvantage"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity1" value = "" desc="Labour Market Benefit Complementary2Activity1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target1" value = "" desc="Labour Market Benefit Complementary2Target1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate1" value = "" desc="Labour Market Benefit Complementary2StartDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate1" value = "" desc="Labour Market Benefit Complementary2EndDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity2" value = "" desc="Labour Market Benefit Complementary2Activity2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target2" value = "" desc="Labour Market Benefit Complementary2Target2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate2" value = "" desc="Labour Market Benefit Complementary2StartDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate2" value = "" desc="Labour Market Benefit Complementary2EndDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity3" value = "" desc="Labour Market Benefit Complementary2Activity3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target3" value = "" desc="Labour Market Benefit Complementary2Target3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate3" value = "" desc="Labour Market Benefit Complementary2StartDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate3" value = "" desc="Labour Market Benefit Complementary2EndDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity4" value = "" desc="Labour Market Benefit Complementary2Activity4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target4" value = "" desc="Labour Market Benefit Complementary2Target4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate4" value = "" desc="Labour Market Benefit Complementary2StartDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate4" value = "" desc="Labour Market Benefit Complementary2EndDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity5" value = "" desc="Labour Market Benefit Complementary2Activity5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target5" value = "" desc="Labour Market Benefit Complementary2Target5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate5" value = "" desc="Labour Market Benefit Complementary2StartDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate5" value = "" desc="Labour Market Benefit Complementary2EndDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity6" value = "" desc="Labour Market Benefit Complementary2Activity6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target6" value = "" desc="Labour Market Benefit Complementary2Target6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate6" value = "" desc="Labour Market Benefit Complementary2StartDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate6" value = "" desc="Labour Market Benefit Complementary2EndDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3WhatAdvantage" value = "" desc="Labour Market Benefit Complementary3WhatAdvantage(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity1" value = "" desc="Labour Market Benefit Complementary3Activity1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target1" value = "" desc="Labour Market Benefit Complementary3Target1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate1" value = "" desc="Labour Market Benefit Complementary3StartDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate1" value = "" desc="Labour Market Benefit Complementary3EndDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity2" value = "" desc="Labour Market Benefit Complementary3Activity2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target2" value = "" desc="Labour Market Benefit Complementary3Target2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate2" value = "" desc="Labour Market Benefit Complementary3StartDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate2" value = "" desc="Labour Market Benefit Complementary3EndDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity3" value = "" desc="Labour Market Benefit Complementary3Activity3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target3" value = "" desc="Labour Market Benefit Complementary3Target3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate3" value = "" desc="Labour Market Benefit Complementary3StartDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate3" value = "" desc="Labour Market Benefit Complementary3EndDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity4" value = "" desc="Labour Market Benefit Complementary3Activity4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target4" value = "" desc="Labour Market Benefit Complementary3Target4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate4" value = "" desc="Labour Market Benefit Complementary3StartDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate4" value = "" desc="Labour Market Benefit Complementary3EndDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity5" value = "" desc="Labour Market Benefit Complementary3Activity5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target5" value = "" desc="Labour Market Benefit Complementary3Target5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate5" value = "" desc="Labour Market Benefit Complementary3StartDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate5" value = "" desc="Labour Market Benefit Complementary3EndDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity6" value = "" desc="Labour Market Benefit Complementary3Activity6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target6" value = "" desc="Labour Market Benefit Complementary3Target6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate6" value = "" desc="Labour Market Benefit Complementary3StartDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate6" value = "" desc="Labour Market Benefit Complementary3EndDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4WhatAdvantage" value = "" desc="Labour Market Benefit Complementary4WhatAdvantage(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity1" value = "" desc="Labour Market Benefit Complementary4Activity1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target1" value = "" desc="Labour Market Benefit Complementary4Target1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate1" value = "" desc="Labour Market Benefit Complementary4StartDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate1" value = "" desc="Labour Market Benefit Complementary4EndDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity2" value = "" desc="Labour Market Benefit Complementary4Activity2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target2" value = "" desc="Labour Market Benefit Complementary4Target2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate2" value = "" desc="Labour Market Benefit Complementary4StartDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate2" value = "" desc="Labour Market Benefit Complementary4EndDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity3" value = "" desc="Labour Market Benefit Complementary4Activity3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target3" value = "" desc="Labour Market Benefit Complementary4Target3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate3" value = "" desc="Labour Market Benefit Complementary4StartDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate3" value = "" desc="Labour Market Benefit Complementary4EndDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity4" value = "" desc="Labour Market Benefit Complementary4Activity4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target4" value = "" desc="Labour Market Benefit Complementary4Target4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate4" value = "" desc="Labour Market Benefit Complementary4StartDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate4" value = "" desc="Labour Market Benefit Complementary4EndDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity5" value = "" desc="Labour Market Benefit Complementary4Activity5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target5" value = "" desc="Labour Market Benefit Complementary4Target5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate5" value = "" desc="Labour Market Benefit Complementary4StartDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate5" value = "" desc="Labour Market Benefit Complementary4EndDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity6" value = "" desc="Labour Market Benefit Complementary4Activity6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target6" value = "" desc="Labour Market Benefit Complementary4Target6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate6" value = "" desc="Labour Market Benefit Complementary4StartDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate6" value = "" desc="Labour Market Benefit Complementary4EndDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5WhatAdvantage" value = "" desc="Labour Market Benefit Complementary5WhatAdvantage"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity1" value = "" desc="Labour Market Benefit Complementary5Activity1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target1" value = "" desc="Labour Market Benefit Complementary5Target1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate1" value = "" desc="Labour Market Benefit Complementary5StartDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate1" value = "" desc="Labour Market Benefit Complementary5EndDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity2" value = "" desc="Labour Market Benefit Complementary5Activity2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target2" value = "" desc="Labour Market Benefit Complementary5Target2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate2" value = "" desc="Labour Market Benefit Complementary5StartDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate2" value = "" desc="Labour Market Benefit Complementary5EndDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity3" value = "" desc="Labour Market Benefit Complementary5Activity3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target3" value = "" desc="Labour Market Benefit Complementary5Target3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate3" value = "" desc="Labour Market Benefit Complementary5StartDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate3" value = "" desc="Labour Market Benefit Complementary5EndDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity4" value = "" desc="Labour Market Benefit Complementary5Activity4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target4" value = "" desc="Labour Market Benefit Complementary5Target4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate4" value = "" desc="Labour Market Benefit Complementary5StartDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate4" value = "" desc="Labour Market Benefit Complementary5EndDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity5" value = "" desc="Labour Market Benefit Complementary5Activity5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target5" value = "" desc="Labour Market Benefit Complementary5Target5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate5" value = "" desc="Labour Market Benefit Complementary5StartDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate5" value = "" desc="Labour Market Benefit Complementary5EndDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity6" value = "" desc="Labour Market Benefit Complementary5Activity6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target6" value = "" desc="Labour Market Benefit Complementary5Target6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate6" value = "" desc="Labour Market Benefit Complementary5StartDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate6" value = "" desc="Labour Market Benefit Complementary5EndDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6WhatAdvantage" value = "" desc="Labour Market Benefit Complementary6WhatAdvantage"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity1" value = "" desc="Labour Market Benefit Complementary6Activity1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target1" value = "" desc="Labour Market Benefit Complementary6Target1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate1" value = "" desc="Labour Market Benefit Complementary6StartDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate1" value = "" desc="Labour Market Benefit Complementary6EndDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity2" value = "" desc="Labour Market Benefit Complementary6Activity2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target2" value = "" desc="Labour Market Benefit Complementary6Target2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate2" value = "" desc="Labour Market Benefit Complementary6StartDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate2" value = "" desc="Labour Market Benefit Complementary6EndDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity3" value = "" desc="Labour Market Benefit Complementary6Activity3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target3" value = "" desc="Labour Market Benefit Complementary6Target3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate3" value = "" desc="Labour Market Benefit Complementary6StartDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate3" value = "" desc="Labour Market Benefit Complementary6EndDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity4" value = "" desc="Labour Market Benefit Complementary6Activity4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target4" value = "" desc="Labour Market Benefit Complementary6Target4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate4" value = "" desc="Labour Market Benefit Complementary6StartDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate4" value = "" desc="Labour Market Benefit Complementary6EndDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity5" value = "" desc="Labour Market Benefit Complementary6Activity5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target5" value = "" desc="Labour Market Benefit Complementary6Target5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate5" value = "" desc="Labour Market Benefit Complementary6StartDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate5" value = "" desc="Labour Market Benefit Complementary6EndDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity6" value = "" desc="Labour Market Benefit Complementary6Activity6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target6" value = "" desc="Labour Market Benefit Complementary6Target6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate6" value = "" desc="Labour Market Benefit Complementary6StartDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate6" value = "" desc="Labour Market Benefit Complementary6EndDate6"></PDFField>
+<PDFField key ="SignatureAndDeclnEmployerSign" value = "" desc="Employer Sign should not be feeded"></PDFField>
+<PDFField key ="SignatureAndDeclnEmployerName" value = "Tiago" desc="Employer Name"></PDFField>
+<PDFField key ="SignatureAndDeclnEmployerTitle" value = "CTO" desc="Employer Title"></PDFField>
+<PDFField key ="SignatureAndDeclnEmployerDate" value = "2019-11-20" desc="Today Date"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartySign" value = "" desc="Third Sign should not be feeded"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyName" value = "" desc="Third Party Name"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyDate" value = "" desc="Today Date"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntEmployerSign" value = "" desc="Employer Sign should not be feeded"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntEmployerName" value = "" desc="Employer Name"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntEmployerDate" value = "" desc="Today Date"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntWitnessSign" value = "" desc="Witness Sign should not be feeded"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntWitnessName" value = "" desc="Witness Name"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntWitnessDate" value = "" desc="Today Date"></PDFField>
+<PDFField key ="FeePaymentFormForOfficeUse" value = "" desc="Should be left blank for Office Use"></PDFField>
+<PDFField key ="FeePaymentFormEmployerName" value = "Tiago" desc="Employer Name"></PDFField>
+<PDFField key ="FeePaymentFormCRABusinessNumber" value = "111111111CR1111" desc="CRA Business Number"></PDFField>
+<PDFField key ="FeePaymentFormPositionNumber" value = "20" desc="Position Number Requested"></PDFField>
+<PDFField key ="FeePaymentFormTotalProcessingFee" value = "20000" desc="Total Processing Fee"></PDFField>
+<PDFField key ="FeePaymentFormIsPaymentMethod" value = "1" desc="Put 0 if Payment is by Cheque or Money Order else 1 if paid by Credit Card"></PDFField>
+<PDFField key ="FeePaymentFormCardHolderName" value = "XYZ" desc="Name of the Card Holder"></PDFField>
+<PDFField key ="FeePaymentFormEmployerPrimaryName" value = "1111111" desc="Employer Primary Contact Name"></PDFField>
+<PDFField key ="FeePaymentFormIsCardType" value = "0" desc="Put 0 if Card Type is Visa 1 if mastercard 2 if american express"></PDFField>
+<PDFField key ="FeePaymentFormCardNumberLast4Digit" value = "2222" desc="Last 4 digits of Card Number"></PDFField>
+<PDFField key ="FeePaymentFormCharge" value = "20000" desc="Charge Amount"></PDFField>
+<PDFField key ="FeePaymentFormCardHolderSign" value = "" desc="Card Holder Sign not to be feeded"></PDFField>
+<PDFField key ="FeePaymentFormDay" value = "20" desc="Payment Day"></PDFField>
+<PDFField key ="FeePaymentFormMonth" value = "11" desc="Payment Month"></PDFField>
+<PDFField key ="FeePaymentFormYear" value = "2019" desc="Payment Year (YYYY)"></PDFField>
+<PDFField key ="FeePaymentFormCardNumber" value = "2222333344445555" desc="Credit Card Number"></PDFField>
+<PDFField key ="FeePaymentFormExpiryDateMonth" value = "12" desc="Card Expiry Month"></PDFField>
+<PDFField key ="FeePaymentFormExpiryDateYear" value = "2019" desc="Card Expiry Year"></PDFField>
+<PDFField key ="TFWInfoWorker1FamilyName" value = "Singh" desc="TFW Info Worker1 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker1FirstName" value = "Nikhil" desc="TFW Info Worker1 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker1Gender" value = "0" desc="TFW Info Worker1 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker1DOB" value = "1985-06-27" desc="TFW Info Worker1 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker1Citizenship" value = "Indian" desc="TFW Info Worker1 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker1PrimaryResidenceOutsideCanadaCity" value = "Ranchi" desc="TFW Info Worker1 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker1PrimaryResidenceOutsideCanadaCountry" value = "India" desc="TFW Info Worker1 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaCity" value = "" desc="TFW Info Worker1 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaCountry" value = "" desc="TFW Info Worker1 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaStatusTFW" value = "" desc="TFW Info Worker1 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaStatusVisitor" value = "" desc="TFW Info Worker1 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaStatusStudent" value = "" desc="TFW Info Worker1 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker1 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker2FamilyName" value = "" desc="TFW Info Worker2 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker2FirstName" value = "" desc="TFW Info Worker2 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker2Gender" value = "" desc="TFW Info Worker2 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker2DOB" value = "" desc="TFW Info Worker2 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker2Citizenship" value = "" desc="TFW Info Worker2 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker2PrimaryResidenceOutsideCanadaCity" value = "" desc="TFW Info Worker2 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker2PrimaryResidenceOutsideCanadaCountry" value = "" desc="TFW Info Worker2 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaCity" value = "" desc="TFW Info Worker2 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaCountry" value = "" desc="TFW Info Worker2 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaStatusTFW" value = "" desc="TFW Info Worker2 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaStatusVisitor" value = "" desc="TFW Info Worker2 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaStatusStudent" value = "" desc="TFW Info Worker2 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker2 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker3FamilyName" value = "" desc="TFW Info Worker3 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker3FirstName" value = "" desc="TFW Info Worker3 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker3Gender" value = "" desc="TFW Info Worker3 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker3DOB" value = "" desc="TFW Info Worker3 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker3Citizenship" value = "" desc="TFW Info Worker3 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker3PrimaryResidenceOutsideCanadaCity" value = "" desc="TFW Info Worker3 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker3PrimaryResidenceOutsideCanadaCountry" value = "" desc="TFW Info Worker3 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaCity" value = "" desc="TFW Info Worker3 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaCountry" value = "" desc="TFW Info Worker3 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaStatusTFW" value = "" desc="TFW Info Worker3 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaStatusVisitor" value = "" desc="TFW Info Worker3 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaStatusStudent" value = "" desc="TFW Info Worker3 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker3 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker4FamilyName" value = "" desc="TFW Info Worker4 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker4FirstName" value = "" desc="TFW Info Worker4 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker4Gender" value = "" desc="TFW Info Worker4 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker4DOB" value = "" desc="TFW Info Worker4 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker4Citizenship" value = "" desc="TFW Info Worker4 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker4PrimaryResidenceOutsideCanadaCity" value = "" desc="TFW Info Worker4 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker4PrimaryResidenceOutsideCanadaCountry" value = "" desc="TFW Info Worker4 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaCity" value = "" desc="TFW Info Worker4 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaCountry" value = "" desc="TFW Info Worker4 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaStatusTFW" value = "" desc="TFW Info Worker4 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaStatusVisitor" value = "" desc="TFW Info Worker4 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaStatusStudent" value = "" desc="TFW Info Worker4 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker4 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker5FamilyName" value = "" desc="TFW Info Worker5 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker5FirstName" value = "" desc="TFW Info Worker5 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker5Gender" value = "" desc="TFW Info Worker5 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker5DOB" value = "" desc="TFW Info Worker5 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker5Citizenship" value = "" desc="TFW Info Worker5 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker5PrimaryResidenceOutsideCanadaCity" value = "" desc="TFW Info Worker5 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker5PrimaryResidenceOutsideCanadaCountry" value = "" desc="TFW Info Worker5 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaCity" value = "" desc="TFW Info Worker5 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaCountry" value = "" desc="TFW Info Worker5 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaStatusTFW" value = "" desc="TFW Info Worker5 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaStatusVisitor" value = "" desc="TFW Info Worker5 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaStatusStudent" value = "" desc="TFW Info Worker5 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker5 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+</PDFFields>
+<PDFFields>
+<PDFField key ="IsPositionInGlobalTalentListNo" value = "" desc="Put 1 if Occupation is in Global Talent Occupation List"></PDFField>
+<PDFField key ="IsPositionInGlobalTalentListYes" value = "1" desc="Put 1 if Occupation is NOT in Global Talent Occupation List"></PDFField>
+<PDFField key ="IsInnovativeEmployerRefferedbyESDCDesigPartnerYes" value = "1" desc="Put 1 if You are referred by ESDC referred Partner but not in GlobalTalent Occupation List"></PDFField>
+<PDFField key ="IsInnovativeEmployerRefferedbyESDCDesigPartnerNo" value = "" desc="Put 1 if You are NOT referred by ESDC referred Partner but not in GlobalTalent Occupation List"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerOrgName" value = "XYZ" desc="Designated Referral Partner Organisation Name"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerFirstName" value = "ABCD" desc="Principal Designated Referral Partner First Name"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerMiddleName" value = "" desc="Principal Designated Referral Partner Middle Name"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerLastName" value = "MNOP" desc="Principal Designated Referral Partner Last Name"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerPhone" value = "000000000-000" desc="Principal Designated Referral Partner Tel Number with Ext"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerAltPhone" value = "" desc="Principal Designated Referral Partner alternate Tel Number with Ext"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerFax" value = "999999999" desc="Principal Designated Referral Partner Fax"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerEmail" value = "xyz@abc.com" desc="Principal Designated Referral Partner Email"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerPreferredLangOral" value = "0" desc="Put 0 for English and 1 for French Oral Preferred Language for Referral Partner"></PDFField>
+<PDFField key ="ESDCDesigRefPartnerPreferredLangWritten" value = "0" desc="Put 0 for English and 1 for French Written Preferred Language for Referral Partner"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerFirstName" value = "" desc="Alternate Principal Designated Referral Partner First Name"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerMiddleName" value = "" desc="Alternate Principal Designated Referral Partner Middle Name"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerLastName" value = "" desc="Alternate Principal Designated Referral Partner Last Name"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerPhone" value = "" desc="Alternate Principal Designated Referral Partner Tel Number with Ext"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerAltPhone" value = "" desc="Alternate Principal Designated Referral Partner alternate Tel Number with Ext"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerFax" value = "" desc="Alternate Principal Designated Referral Partner Fax"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerEmail" value = "" desc="Alternate Principal Designated Referral Partner Email"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerPreferredLangOral" value = "" desc="Put 0 for English and 1 for French Oral Preferred Language for Alternate Referral Partner"></PDFField>
+<PDFField key ="ESDCDesigAltRefPartnerPreferredLangWritten" value = "" desc="Put 0 for English and 1 for French Written Preferred Language for Alternate Referral Partner"></PDFField>
+<PDFField key ="EmployerBusinessLegalName" value = "Vanhack2" desc="Employer Business Legal Name"></PDFField>
+<PDFField key ="EmployerBusinessAddressLine1" value = "Street London" desc="Employer Business Address Line 1"></PDFField>
+<PDFField key ="EmployerBusinessAddressLine2" value = "House in London" desc="Employer Business Address Line 2"></PDFField>
+<PDFField key ="EmployerBusinessCity" value = "London" desc="Employer Business City"></PDFField>
+<PDFField key ="EmployerBusinessProvince" value = "London" desc="Employer Business Province"></PDFField>
+<PDFField key ="EmployerBusinessCountry" value = "UK" desc="Employer Business Country"></PDFField>
+<PDFField key ="EmployerBusinessPostalCode" value = "323232" desc="Employer Business Postal Code"></PDFField>
+<PDFField key ="EmployerBusinessMailAddressLine1" value = "Street XYZ" desc="Employer Business Mail Address Line 1"></PDFField>
+<PDFField key ="EmployerBusinessMailAddressLine2" value = "House ABCD" desc="Employer Business Mail Address Line 2"></PDFField>
+<PDFField key ="EmployerBusinessMailCity" value = "London" desc="Employer Business Mail City"></PDFField>
+<PDFField key ="EmployerBusinessMailProvince" value = "London" desc="Employer Business Mail Province"></PDFField>
+<PDFField key ="EmployerBusinessMailCountry" value = "UK" desc="Employer Business Mail Country"></PDFField>
+<PDFField key ="EmployerBusinessMailPostalCode" value = "232323" desc="Employer Business Mail Postal Code"></PDFField>
+<PDFField key ="EmployerBusinessWebsite" value = "vanhack.com" desc="Employer Business Website"></PDFField>
+<PDFField key ="EmployerBusinessStartDate" value = "2014-01-01" desc="Employer Business Start Date"></PDFField>
+<PDFField key ="EmployerOrgTypeCorporation" value = "1" desc="Put 1 if Employer Organisation Type Is Corporation"></PDFField>
+<PDFField key ="EmployerOrgTypePartnership" value = "" desc="Put 1 if Employer Organisation Type is Partnership"></PDFField>
+<PDFField key ="EmployerOrgTypeCooperative" value = "" desc="Put 1 if Employer Organisation Type is Cooperative"></PDFField>
+<PDFField key ="EmployerOrgTypeSoleProprietorship" value = "" desc="Put 1 if Employer Organisation Type is Sole Proprietorship"></PDFField>
+<PDFField key ="EmployerOrgTypeNotProfit" value = "" desc="Put 1 if Employer Organisation Type is Not Profit"></PDFField>
+<PDFField key ="EmployerOrgTypeRegisteredCharity" value = "" desc="Put 1 if Employer Organisation Type is Registered Charity"></PDFField>
+<PDFField key ="EmployerEmployeeEmployedNumber" value = "700" desc="Number of Employees Employed under CRA Business Number"></PDFField>
+<PDFField key ="EmployerAnnualGrossRevenue" value = "1000000" desc="Employer Annual Gross Revenue of Business"></PDFField>
+<PDFField key ="EmployerESDCSupportedYesOrNo" value = "0" desc="Put 0 if NOT supported by ESDC Program and 1 if supported by ESDC Program "></PDFField>
+<PDFField key ="EmployerESDCSupportedDetailsIfYes" value = "" desc="If supported by ESDC Program then Detail"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerJobTitle" value = "CTO" desc="Principal Employer Job Title"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerFirstName" value = "Tiago" desc="Principal Employer First Name"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerMiddleName" value = "" desc="Principal Employer Middle Name"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerLastName" value = "" desc="Principal Employer Last Name"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerPhone" value = "11111111-11" desc="Principal Employer Phone with Extension"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerAltPhone" value = "2222222-22" desc="Principal Employer Alternate Phone with Extension"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerFax" value = "333333333" desc="Principal Employer Fax"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerEmail" value = "tiago@vanhack.com" desc="Principal Employer Email"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerPreferredOralLanguage" value = "0" desc="Put 0 for English and 1 for French Principal Employer Preferred Oral Language"></PDFField>
+<PDFField key ="EmployerPrincipalEmployerPreferredWrittenLanguage" value = "0" desc="Put 0 for English and 1 for French Principal Employer Preferred Written Language"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerJobTitle" value = "" desc="Alternate Employer Job Title"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerFirstName" value = "" desc="Alternate Employer First Name"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerMiddleName" value = "" desc="Alternate Employer Middle Name"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerLastName" value = "" desc="Alternate Employer Last Name"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerPhone" value = "" desc="Alternate Employer Phone"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerAltPhone" value = "" desc="Alternate Employer Alternate Phone"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerFax" value = "" desc="Alternate Employer Fax"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerEmail" value = "" desc="Alternate Employer Email"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerPreferredOralLanguage" value = "" desc="Put 0 for English and 1 for French Alternate Employer Preferred Oral Language"></PDFField>
+<PDFField key ="EmployerAltPrincipalEmployerPreferredWrittenLanguage" value = "" desc="Put 0 for English and 1 for French Alternate Employer Preferred Written Language"></PDFField>
+<PDFField key ="ThirdPartyIsThirdPartyNeeded" value = "1" desc="Put 0 if third Party is required for immigration process and 1 if not required"></PDFField>
+<PDFField key ="CompanyAccountOrCodeNumber1Page2" value = "111111111" desc="CRA Payroll Deduction Program Account Number digit prior to RP"></PDFField>
+<PDFField key ="CompanyAccountOrCodeNumber2Page2" value = "1111" desc="CRA Payroll Deduction Program Account Number digit after RP"></PDFField>
+<PDFField key ="ThirdPartyBusinessLegalName" value = "" desc="Third Party Business Legal Name"></PDFField>
+<PDFField key ="ThirdPartyBusinessOperateName" value = "" desc="Third Party Business Operating Name"></PDFField>
+<PDFField key ="ThirdPartyEmployerJobTitle" value = "" desc="Third Party Employer Job Title"></PDFField>
+<PDFField key ="ThirdPartyEmployerFirstName" value = "" desc="Third Party Employer First Name"></PDFField>
+<PDFField key ="ThirdPartyEmployerMiddleName" value = "" desc="Third Party Employer Middle Name"></PDFField>
+<PDFField key ="ThirdPartyEmployerLastName" value = "" desc="Third Party Employer Last Name"></PDFField>
+<PDFField key ="ThirdPartyEmployerPhone" value = "" desc="Third Party Employer Phone with Extension"></PDFField>
+<PDFField key ="ThirdPartyEmployerAltPhone" value = "" desc="Third Party Employer Alternate Phone with Extension"></PDFField>
+<PDFField key ="ThirdPartyEmployerFax" value = "" desc="Third Party Employer Fax"></PDFField>
+<PDFField key ="ThirdPartyEmployerEmail" value = "" desc="Third Party Employer Email"></PDFField>
+<PDFField key ="ThirdPartyEmployerPreferredOralLanguage" value = "" desc="Put 0 for English and 1 for French Third Party Employer Preferred Oral Language"></PDFField>
+<PDFField key ="ThirdPartyEmployerPreferredWrittenLanguage" value = "" desc="Put 0 for English and 1 for French Third Party Employer Preferred Written Language"></PDFField>
+<PDFField key ="ThirdPartyBusinessAddressLine1" value = "" desc="Third Party Business Address Line 1"></PDFField>
+<PDFField key ="ThirdPartyBusinessAddressLine2" value = "" desc="Third Party Business Address Line 2"></PDFField>
+<PDFField key ="ThirdPartyBusinessCity" value = "" desc="Third Party Business City"></PDFField>
+<PDFField key ="ThirdPartyBusinessProvince" value = "" desc="Third Party Business Province"></PDFField>
+<PDFField key ="ThirdPartyBusinessCountry" value = "" desc="Third Party Business Country"></PDFField>
+<PDFField key ="ThirdPartyBusinessPostalCode" value = "" desc="Third Party Business Postal Code"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailAddressLine1" value = "" desc="Third Party Business Mail Address Line 1"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailAddressLine2" value = "" desc="Third Party Business Mail Address Line 2"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailCity" value = "" desc="Third Party Business Mail City"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailProvince" value = "" desc="Third Party Business Mail Province"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailCountry" value = "" desc="Third Party Business Mail Country"></PDFField>
+<PDFField key ="ThirdPartyBusinessMailPostalCode" value = "" desc="Third Party Business Mail Postal Code"></PDFField>
+<PDFField key ="ThirdPartyIsPaidByEmployerforLIMA" value = "" desc="Put 0 if Third Party is Paid by Employer for LIMA else 1 if not Paid"></PDFField>
+<PDFField key ="ThirdPartyIsMemberOfICCRC" value = "" desc="Put 1 if Third Party Is Member Of ICCRC"></PDFField>
+<PDFField key ="ThirdPartyICCRCMemberID" value = "" desc="Third Party ICCRC Member ID"></PDFField>
+<PDFField key ="ThirdPartyIsMemberLawSocietyOfProvince" value = "" desc="Put 1 if Third Party Is Member Law Society Of Province"></PDFField>
+<PDFField key ="ThirdPartyMemberOfWhichProvince" value = "" desc="Third Party Member Of Which Province"></PDFField>
+<PDFField key ="ThirdPartyMemberProvinceMemberID" value = "" desc="Third Party Member Province Member ID"></PDFField>
+<PDFField key ="ThirdPartyIsNotariesAssnOfCanadaMember" value = "" desc="Put 1 if Third Party Is Notaries Assn Of Canada Member"></PDFField>
+<PDFField key ="ThirdPartyMemberNotariesAssnID" value = "" desc="Third Party Member Notaries Assn ID"></PDFField>
+<PDFField key ="ThirdPartyIsOtherMember" value = "" desc="Put 1 if Third Party Is Other Member"></PDFField>
+<PDFField key ="ThirdPartyMemberOtherInfo" value = "" desc="Third Party Member Other Info"></PDFField>
+<PDFField key ="ThirdPartyIsFamilyMemberOrFriend" value = "" desc="Put 1 if Third Party Is Family Member Or Friend"></PDFField>
+<PDFField key ="ThirdPartyIsMemberNGO" value = "" desc="Put 1 if Third Party Is Member NGO"></PDFField>
+<PDFField key ="ThirdPartyIsMemberICCRC" value = "" desc="Put 1 if Third Party Is Member ICCRC"></PDFField>
+<PDFField key ="ThirdPartyIsOtherNonPaidEmployerMember" value = "" desc="Put 1 if Third Party Is Other Non Paid Employer Member"></PDFField>
+<PDFField key ="ThirdPartyOtherNonPaidMemberInfo" value = "" desc="Third Party Other Non Paid Member Info"></PDFField>
+<PDFField key ="JobOfferJobTitle" value = "Developer" desc="Job Offer Job Title"></PDFField>
+<PDFField key ="JobOfferNationalOccupnClass" value = "2" desc="Job Offer National Occupation Class"></PDFField>
+<PDFField key ="JobOfferTFWNumberRequested" value = "20" desc="Job Offer TFW Number Requested"></PDFField>
+<PDFField key ="CompanyAccountOrCodeNumber1Page3" value = "111111111" desc="CRA Payroll Deduction Program Account Number digit prior to RP"></PDFField>
+<PDFField key ="CompanyAccountOrCodeNumber2Page3" value = "1111" desc="CRA Payroll Deduction Program Account Number digit after RP"></PDFField>
+<PDFField key ="JobOfferMainDuties" value = "Developing Application" desc="Job Offer Main Duties"></PDFField>
+<PDFField key ="JobOfferEmplmntStartDate" value = "2019-12-30" desc="Job Offer Employment Start Date (YYYY-MM-DD)"></PDFField>
+<PDFField key ="JobOfferEmplmntDurationNumber" value = "3" desc="Job Offer Employment Duration Number"></PDFField>
+<PDFField key ="JobOfferExpectedDurationInDays" value = "900" desc="Job Offer Expected Duration In Days"></PDFField>
+<PDFField key ="JobOfferExpectedDurationInWeek" value = "" desc="Job Offer Expected Duration In Week"></PDFField>
+<PDFField key ="JobOfferExpectedDurationInMonth" value = "" desc="Job Offer Expected Duration In Month"></PDFField>
+<PDFField key ="JobOfferExpectedDurationInYear" value = "3" desc="Job Offer Expected Duration In Year"></PDFField>
+<PDFField key ="JobOfferEmplmntDurationRationale" value = "" desc="Job Offer Employment Duration Rationale"></PDFField>
+<PDFField key ="JobOfferIsPositionUnionPart" value = "0" desc="Put 0 if Job is not a Part of Union else 1 if its a part of Union"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntOral" value = "1" desc="Put 1 if Job Offer Require Language Ability Oral"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntOralEng" value = "1" desc="Put 1 if Job Offer Require Language Ability Oral English"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntOralFrench" value = "" desc="Put 1 if Job Offer Require Language Ability Oral French"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntOralEngAndFrench" value = "" desc="Put 1 if Job Offer Require Language Ability Oral English and French"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntWriting" value = "1" desc="Put 1 if Job Offer Require Language Ability Writing"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntWritingEng" value = "1" desc="Put 1 if Job Offer Require Language Ability Writing English"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntWritingFrench" value = "" desc="Put 1 if Job Offer Require Language Ability Writing French"></PDFField>
+<PDFField key ="JobOfferLanguageReqmntWritingEngAndFrench" value = "" desc="Put 1 if Job Offer Require Language Ability Writing English and French"></PDFField>
+<PDFField key ="JobOfferIsSpecificLangNotNeeded" value = "" desc="Put 1 if Job Offer does not need specific Language"></PDFField>
+<PDFField key ="JobOfferSpecificLangNotNeededDetail" value = "" desc="Job Offer Specific Language Not Needed Detail"></PDFField>
+<PDFField key ="JobOfferIsLangOtherThanEngOrFrench" value = "" desc="Put 1 if Job Offer require Language Other Than English Or French"></PDFField>
+<PDFField key ="JobOfferLangOtherThanEngOrFrenchDetail" value = "" desc="Job Offer Language Other Than English Or French Detail"></PDFField>
+<PDFField key ="JobOfferMinEducationReqmnt" value = "3" desc="Put 0 if minimum Job Requirement is Doctorate/PhD 1 if Doctor of Medicine 2 if Master Degree 3 if Bachelor Degree 4 if College level diploma 5 if apprenticeship diploma 6 if Trade Diploma 7 if Secondary School 8 if Vocational School Diploma 9 if no formal education is required"></PDFField>
+<PDFField key ="JobOfferAdditionalInfo" value = "" desc="Job Offer Additional Info"></PDFField>
+<PDFField key ="JobOfferMinExpOrSkillNeeded" value = "" desc="Job Offer Minimum Experience Or Skill Needed"></PDFField>
+<PDFField key ="JobOfferIsTriedToRecruitCanadianOrPermResidentYes" value = "1" desc="Put 1 if Tried To Recruit Canadian Or Permanent Resident"></PDFField>
+<PDFField key ="JobOfferPriorRecruitCanadianOrPermResidentDetail" value = "Did webinars" desc="Effort to Recruit Canadian Or Permanent Resident Detail"></PDFField>
+<PDFField key ="JobOfferIsTriedToRecruitCanadianOrPermResidentNo" value = "" desc="Put 1 if NOT Tried To Recruit Canadian Or Permanent Resident"></PDFField>
+<PDFField key ="JobOfferNoPriorRecruitCanadianOrPermResidentDetail" value = "" desc="Reason why not Recruit Canadian Or Permanent Resident Detail"></PDFField>
+<PDFField key ="JobOfferIsCanadianEmployeeLaidOff" value = "0" desc="Put 0 if Canadian Employee NOT Laid Off and 1 if Laid OFF"></PDFField>
+<PDFField key ="JobOfferCanadianEmployeeLaidOffNumber" value = "" desc="Canadian Employee Laid Off Number"></PDFField>
+<PDFField key ="JobOfferCanadianEmployeeTFWLaidOffNumber" value = "" desc="Canadian Employee TFW Laid Off Number"></PDFField>
+<PDFField key ="JobOfferEmployeeLaidOffReason" value = "" desc="Employee Laid Off Reason"></PDFField>
+<PDFField key ="JobOfferIsHiringTFWLeadToJobLoss" value = "0" desc="Put 0 if Hiring TFW NOT lead to Job Loss else 1 if it leade to Job Loss"></PDFField>
+<PDFField key ="JobOfferHiringTFWLeadToJobLossDetails" value = "" desc="Hiring TFW Lead To Job Loss Details"></PDFField>
+<PDFField key ="CompensationLowWage" value = "20" desc="Compensation Low Wage per Hour"></PDFField>
+<PDFField key ="CompensationHighWage" value = "60" desc="Compensation High Wage per Hour"></PDFField>
+<PDFField key ="CompensationIsNoEmployeeWorking" value = "" desc="Put 1 if No Employee Working in this Occupation"></PDFField>
+<PDFField key ="CompensationIsJobOfferCoveredByLIMA" value = "0" desc="Put 0 if Job Offer with duration Covered By LIMA else 1"></PDFField>
+<PDFField key ="CompensationIfNotJobOfferCoveredByLIMADetail" value = "" desc="If Not Job Offer Covered By LIMA then Detail"></PDFField>
+<PDFField key ="CompensationTFWWorkHourPerDay" value = "8" desc="TFW Work Hour Per Day"></PDFField>
+<PDFField key ="CompensationTFWWorkHourPerWeek" value = "40" desc="TFW Work Hour Per Week"></PDFField>
+<PDFField key ="CompensationTFWWorkHourPerMonth" value = "" desc="TFW Work Hour Per Month"></PDFField>
+<PDFField key ="CompensationTFWOfferedPerHour" value = "40" desc="TFW Offered Per Hour"></PDFField>
+<PDFField key ="CompensationTFWOvertimePerHour" value = "30" desc="TFW Overtime Per Hour"></PDFField>
+<PDFField key ="CompensationTFWOvertimeStartingAfterHourPerDay" value = "1" desc="TFW Overtime Starting After Hour Per Day"></PDFField>
+<PDFField key ="CompensationTFWOvertimeStartingAfterHourPerWeek" value = "" desc="TFW Overtime Starting After Hour Per Week"></PDFField>
+<PDFField key ="CompensationSalaryIsCoversionOtherThanCanadaDollar" value = "" desc="Put 0 if Currency is Canadian else 1 if not Canadian Dollar"></PDFField>
+<PDFField key ="CompensationSalaryCoversionOtherThanCanadaDollarDetail" value = "" desc="Coversion Factor if Other Than Canada Dollar Detail"></PDFField>
+<PDFField key ="CompensationIsDisabilityBenefits" value = "1" desc="Put 1 if Disability Benefits"></PDFField>
+<PDFField key ="CompensationIsDentalInsurance" value = "1" desc="Put 1 if Dental Insurance"></PDFField>
+<PDFField key ="CompensationIsPension" value = "" desc="Put 1 if Pension"></PDFField>
+<PDFField key ="CompensationIsExtendedMedicalInsurance" value = "1" desc="Put 1 if Extended Medical Insurance"></PDFField>
+<PDFField key ="CompensationOtherBenefitsDetails" value = "" desc="Other Benefits Details"></PDFField>
+<PDFField key ="CompensationVacationDays" value = "28" desc="Vacation Days"></PDFField>
+<PDFField key ="CompensationVacationRemuneration" value = "" desc="Vacation Remuneration"></PDFField>
+<PDFField key ="WorkLocationPrincipalActivity" value = "Software Development" desc="Work Location Principal Business Activity"></PDFField>
+<PDFField key ="WorkLocationCommercialName" value = "Vanhack" desc="Work Location Commercial Name"></PDFField>
+<PDFField key ="WorkLocationPrimaryOfTFW" value = "" desc="Work Location Primary of TFW"></PDFField>
+<PDFField key ="WorkLocationPrimaryOfTFWCity" value = "Canada" desc="Work Location Primary Of TFW City"></PDFField>
+<PDFField key ="WorkLocationPrimaryOfTFWProvince" value = "Canada" desc="Work Location Primary Of TFW Province"></PDFField>
+<PDFField key ="WorkLocationPrimaryOfTFWPostalCode" value = "MB41B3" desc="Work Location Primary Of TFW Postal Code"></PDFField>
+<PDFField key ="WorkLocationOtherOfTFW" value = "" desc="Work Location Other Of TFW"></PDFField>
+<PDFField key ="WorkLocationOtherOfTFWCity" value = "" desc="Work Location Other Of TFW City"></PDFField>
+<PDFField key ="WorkLocationOtherOfTFWProvince" value = "" desc="Work Location Other Of TFW Province"></PDFField>
+<PDFField key ="WorkLocationOtherOfTFWPostalCode" value = "" desc="Work Location Other Of TFW Postal Code"></PDFField>
+<PDFField key ="WorkLocationIsLabourDispute" value = "0" desc="Put 0 if NO labour dispute in Work Location else 1"></PDFField>
+<PDFField key ="WorkLocationLabourDisputeInfo" value = "" desc="Work Location Labour Dispute Info"></PDFField>
+<PDFField key ="LabourMarketBenefitIsPlan" value = "0" desc="Put 0 if NO Labour Market Benefit Plan 1 if Labour Market Benefit Plan"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryWhatAdvantage" value = "" desc="Mandatory Benefit achieved by hiring a TFW for the Position"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity1" value = "" desc="Labour Market Benefit MandatoryActivity1"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget1" value = "" desc="Labour Market Benefit MandatoryTarget1"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate1" value = "" desc="Labour Market Benefit MandatoryStartDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate1" value = "" desc="Labour Market Benefit MandatoryEndDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity2" value = "" desc="Labour Market Benefit MandatoryActivity2"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget2" value = "" desc="Labour Market Benefit MandatoryTarget2"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate2" value = "" desc="Labour Market Benefit MandatoryStartDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate2" value = "" desc="Labour Market Benefit MandatoryEndDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity3" value = "" desc="Labour Market Benefit MandatoryActivity3"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget3" value = "" desc="Labour Market Benefit MandatoryTarget3"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate3" value = "" desc="Labour Market Benefit MandatoryStartDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate3" value = "" desc="Labour Market Benefit MandatoryEndDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity4" value = "" desc="Labour Market Benefit MandatoryActivity4"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget4" value = "" desc="Labour Market Benefit MandatoryTarget4"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate4" value = "" desc="Labour Market Benefit MandatoryStartDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate4" value = "" desc="Labour Market Benefit MandatoryEndDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity5" value = "" desc="Labour Market Benefit MandatoryActivity5"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget5" value = "" desc="Labour Market Benefit MandatoryTarget5"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate5" value = "" desc="Labour Market Benefit MandatoryStartDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate5" value = "" desc="Labour Market Benefit MandatoryEndDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryActivity6" value = "" desc="Labour Market Benefit MandatoryActivity6"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryTarget6" value = "" desc="Labour Market Benefit MandatoryTarget6"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryStartDate6" value = "" desc="Labour Market Benefit MandatoryStartDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitMandatoryEndDate6" value = "" desc="Labour Market Benefit MandatoryEndDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1WhatAdvantage" value = "" desc="Labour Market Benefit Complementary1WhatAdvantage"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity1" value = "" desc="Labour Market Benefit Complementary1Activity1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target1" value = "" desc="Labour Market Benefit Complementary1Target1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate1" value = "" desc="Labour Market Benefit Complementary1StartDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate1" value = "" desc="Labour Market Benefit Complementary1EndDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity2" value = "" desc="Labour Market Benefit Complementary1Activity2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target2" value = "" desc="Labour Market Benefit Complementary1Target2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate2" value = "" desc="Labour Market Benefit Complementary1StartDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate2" value = "" desc="Labour Market Benefit Complementary1EndDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity3" value = "" desc="Labour Market Benefit Complementary1Activity3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target3" value = "" desc="Labour Market Benefit Complementary1Target3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate3" value = "" desc="Labour Market Benefit Complementary1StartDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate3" value = "" desc="Labour Market Benefit Complementary1EndDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity4" value = "" desc="Labour Market Benefit Complementary1Activity4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target4" value = "" desc="Labour Market Benefit Complementary1Target4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate4" value = "" desc="Labour Market Benefit Complementary1StartDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate4" value = "" desc="Labour Market Benefit Complementary1EndDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity5" value = "" desc="Labour Market Benefit Complementary1Activity5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target5" value = "" desc="Labour Market Benefit Complementary1Target5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate5" value = "" desc="Labour Market Benefit Complementary1StartDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate5" value = "" desc="Labour Market Benefit Complementary1EndDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Activity6" value = "" desc="Labour Market Benefit Complementary1Activity6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1Target6" value = "" desc="Labour Market Benefit Complementary1Target6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1StartDate6" value = "" desc="Labour Market Benefit Complementary1StartDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary1EndDate6" value = "" desc="Labour Market Benefit Complementary1EndDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2WhatAdvantage" value = "" desc="Labour Market Benefit Complementary2WhatAdvantage"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity1" value = "" desc="Labour Market Benefit Complementary2Activity1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target1" value = "" desc="Labour Market Benefit Complementary2Target1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate1" value = "" desc="Labour Market Benefit Complementary2StartDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate1" value = "" desc="Labour Market Benefit Complementary2EndDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity2" value = "" desc="Labour Market Benefit Complementary2Activity2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target2" value = "" desc="Labour Market Benefit Complementary2Target2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate2" value = "" desc="Labour Market Benefit Complementary2StartDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate2" value = "" desc="Labour Market Benefit Complementary2EndDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity3" value = "" desc="Labour Market Benefit Complementary2Activity3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target3" value = "" desc="Labour Market Benefit Complementary2Target3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate3" value = "" desc="Labour Market Benefit Complementary2StartDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate3" value = "" desc="Labour Market Benefit Complementary2EndDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity4" value = "" desc="Labour Market Benefit Complementary2Activity4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target4" value = "" desc="Labour Market Benefit Complementary2Target4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate4" value = "" desc="Labour Market Benefit Complementary2StartDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate4" value = "" desc="Labour Market Benefit Complementary2EndDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity5" value = "" desc="Labour Market Benefit Complementary2Activity5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target5" value = "" desc="Labour Market Benefit Complementary2Target5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate5" value = "" desc="Labour Market Benefit Complementary2StartDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate5" value = "" desc="Labour Market Benefit Complementary2EndDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Activity6" value = "" desc="Labour Market Benefit Complementary2Activity6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2Target6" value = "" desc="Labour Market Benefit Complementary2Target6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2StartDate6" value = "" desc="Labour Market Benefit Complementary2StartDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary2EndDate6" value = "" desc="Labour Market Benefit Complementary2EndDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3WhatAdvantage" value = "" desc="Labour Market Benefit Complementary3WhatAdvantage(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity1" value = "" desc="Labour Market Benefit Complementary3Activity1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target1" value = "" desc="Labour Market Benefit Complementary3Target1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate1" value = "" desc="Labour Market Benefit Complementary3StartDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate1" value = "" desc="Labour Market Benefit Complementary3EndDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity2" value = "" desc="Labour Market Benefit Complementary3Activity2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target2" value = "" desc="Labour Market Benefit Complementary3Target2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate2" value = "" desc="Labour Market Benefit Complementary3StartDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate2" value = "" desc="Labour Market Benefit Complementary3EndDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity3" value = "" desc="Labour Market Benefit Complementary3Activity3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target3" value = "" desc="Labour Market Benefit Complementary3Target3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate3" value = "" desc="Labour Market Benefit Complementary3StartDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate3" value = "" desc="Labour Market Benefit Complementary3EndDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity4" value = "" desc="Labour Market Benefit Complementary3Activity4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target4" value = "" desc="Labour Market Benefit Complementary3Target4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate4" value = "" desc="Labour Market Benefit Complementary3StartDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate4" value = "" desc="Labour Market Benefit Complementary3EndDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity5" value = "" desc="Labour Market Benefit Complementary3Activity5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target5" value = "" desc="Labour Market Benefit Complementary3Target5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate5" value = "" desc="Labour Market Benefit Complementary3StartDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate5" value = "" desc="Labour Market Benefit Complementary3EndDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Activity6" value = "" desc="Labour Market Benefit Complementary3Activity6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3Target6" value = "" desc="Labour Market Benefit Complementary3Target6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3StartDate6" value = "" desc="Labour Market Benefit Complementary3StartDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary3EndDate6" value = "" desc="Labour Market Benefit Complementary3EndDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4WhatAdvantage" value = "" desc="Labour Market Benefit Complementary4WhatAdvantage(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity1" value = "" desc="Labour Market Benefit Complementary4Activity1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target1" value = "" desc="Labour Market Benefit Complementary4Target1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate1" value = "" desc="Labour Market Benefit Complementary4StartDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate1" value = "" desc="Labour Market Benefit Complementary4EndDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity2" value = "" desc="Labour Market Benefit Complementary4Activity2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target2" value = "" desc="Labour Market Benefit Complementary4Target2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate2" value = "" desc="Labour Market Benefit Complementary4StartDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate2" value = "" desc="Labour Market Benefit Complementary4EndDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity3" value = "" desc="Labour Market Benefit Complementary4Activity3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target3" value = "" desc="Labour Market Benefit Complementary4Target3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate3" value = "" desc="Labour Market Benefit Complementary4StartDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate3" value = "" desc="Labour Market Benefit Complementary4EndDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity4" value = "" desc="Labour Market Benefit Complementary4Activity4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target4" value = "" desc="Labour Market Benefit Complementary4Target4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate4" value = "" desc="Labour Market Benefit Complementary4StartDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate4" value = "" desc="Labour Market Benefit Complementary4EndDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity5" value = "" desc="Labour Market Benefit Complementary4Activity5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target5" value = "" desc="Labour Market Benefit Complementary4Target5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate5" value = "" desc="Labour Market Benefit Complementary4StartDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate5" value = "" desc="Labour Market Benefit Complementary4EndDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Activity6" value = "" desc="Labour Market Benefit Complementary4Activity6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4Target6" value = "" desc="Labour Market Benefit Complementary4Target6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4StartDate6" value = "" desc="Labour Market Benefit Complementary4StartDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary4EndDate6" value = "" desc="Labour Market Benefit Complementary4EndDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5WhatAdvantage" value = "" desc="Labour Market Benefit Complementary5WhatAdvantage"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity1" value = "" desc="Labour Market Benefit Complementary5Activity1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target1" value = "" desc="Labour Market Benefit Complementary5Target1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate1" value = "" desc="Labour Market Benefit Complementary5StartDate1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate1" value = "" desc="Labour Market Benefit Complementary5EndDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity2" value = "" desc="Labour Market Benefit Complementary5Activity2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target2" value = "" desc="Labour Market Benefit Complementary5Target2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate2" value = "" desc="Labour Market Benefit Complementary5StartDate2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate2" value = "" desc="Labour Market Benefit Complementary5EndDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity3" value = "" desc="Labour Market Benefit Complementary5Activity3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target3" value = "" desc="Labour Market Benefit Complementary5Target3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate3" value = "" desc="Labour Market Benefit Complementary5StartDate3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate3" value = "" desc="Labour Market Benefit Complementary5EndDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity4" value = "" desc="Labour Market Benefit Complementary5Activity4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target4" value = "" desc="Labour Market Benefit Complementary5Target4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate4" value = "" desc="Labour Market Benefit Complementary5StartDate4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate4" value = "" desc="Labour Market Benefit Complementary5EndDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity5" value = "" desc="Labour Market Benefit Complementary5Activity5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target5" value = "" desc="Labour Market Benefit Complementary5Target5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate5" value = "" desc="Labour Market Benefit Complementary5StartDate5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate5" value = "" desc="Labour Market Benefit Complementary5EndDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Activity6" value = "" desc="Labour Market Benefit Complementary5Activity6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5Target6" value = "" desc="Labour Market Benefit Complementary5Target6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5StartDate6" value = "" desc="Labour Market Benefit Complementary5StartDate6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary5EndDate6" value = "" desc="Labour Market Benefit Complementary5EndDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6WhatAdvantage" value = "" desc="Labour Market Benefit Complementary6WhatAdvantage"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity1" value = "" desc="Labour Market Benefit Complementary6Activity1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target1" value = "" desc="Labour Market Benefit Complementary6Target1(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate1" value = "" desc="Labour Market Benefit Complementary6StartDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate1" value = "" desc="Labour Market Benefit Complementary6EndDate1"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity2" value = "" desc="Labour Market Benefit Complementary6Activity2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target2" value = "" desc="Labour Market Benefit Complementary6Target2(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate2" value = "" desc="Labour Market Benefit Complementary6StartDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate2" value = "" desc="Labour Market Benefit Complementary6EndDate2"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity3" value = "" desc="Labour Market Benefit Complementary6Activity3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target3" value = "" desc="Labour Market Benefit Complementary6Target3(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate3" value = "" desc="Labour Market Benefit Complementary6StartDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate3" value = "" desc="Labour Market Benefit Complementary6EndDate3"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity4" value = "" desc="Labour Market Benefit Complementary6Activity4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target4" value = "" desc="Labour Market Benefit Complementary6Target4(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate4" value = "" desc="Labour Market Benefit Complementary6StartDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate4" value = "" desc="Labour Market Benefit Complementary6EndDate4"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity5" value = "" desc="Labour Market Benefit Complementary6Activity5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target5" value = "" desc="Labour Market Benefit Complementary6Target5(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate5" value = "" desc="Labour Market Benefit Complementary6StartDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate5" value = "" desc="Labour Market Benefit Complementary6EndDate5"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Activity6" value = "" desc="Labour Market Benefit Complementary6Activity6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6Target6" value = "" desc="Labour Market Benefit Complementary6Target6(YYYY-MM-DD)"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6StartDate6" value = "" desc="Labour Market Benefit Complementary6StartDate6"></PDFField>
+<PDFField key ="LabourMarketBenefitComplementary6EndDate6" value = "" desc="Labour Market Benefit Complementary6EndDate6"></PDFField>
+<PDFField key ="SignatureAndDeclnEmployerSign" value = "" desc="Employer Sign should not be feeded"></PDFField>
+<PDFField key ="SignatureAndDeclnEmployerName" value = "Tiago" desc="Employer Name"></PDFField>
+<PDFField key ="SignatureAndDeclnEmployerTitle" value = "CTO" desc="Employer Title"></PDFField>
+<PDFField key ="SignatureAndDeclnEmployerDate" value = "2019-11-20" desc="Today Date"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartySign" value = "" desc="Third Sign should not be feeded"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyName" value = "" desc="Third Party Name"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyDate" value = "" desc="Today Date"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntEmployerSign" value = "" desc="Employer Sign should not be feeded"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntEmployerName" value = "" desc="Employer Name"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntEmployerDate" value = "" desc="Today Date"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntWitnessSign" value = "" desc="Witness Sign should not be feeded"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntWitnessName" value = "" desc="Witness Name"></PDFField>
+<PDFField key ="SignatureAndDeclnThirdPartyApmntWitnessDate" value = "" desc="Today Date"></PDFField>
+<PDFField key ="FeePaymentFormForOfficeUse" value = "" desc="Should be left blank for Office Use"></PDFField>
+<PDFField key ="FeePaymentFormEmployerName" value = "Tiago" desc="Employer Name"></PDFField>
+<PDFField key ="FeePaymentFormCRABusinessNumber" value = "111111111CR1111" desc="CRA Business Number"></PDFField>
+<PDFField key ="FeePaymentFormPositionNumber" value = "20" desc="Position Number Requested"></PDFField>
+<PDFField key ="FeePaymentFormTotalProcessingFee" value = "20000" desc="Total Processing Fee"></PDFField>
+<PDFField key ="FeePaymentFormIsPaymentMethod" value = "1" desc="Put 0 if Payment is by Cheque or Money Order else 1 if paid by Credit Card"></PDFField>
+<PDFField key ="FeePaymentFormCardHolderName" value = "XYZ" desc="Name of the Card Holder"></PDFField>
+<PDFField key ="FeePaymentFormEmployerPrimaryName" value = "1111111" desc="Employer Primary Contact Name"></PDFField>
+<PDFField key ="FeePaymentFormIsCardType" value = "0" desc="Put 0 if Card Type is Visa 1 if mastercard 2 if american express"></PDFField>
+<PDFField key ="FeePaymentFormCardNumberLast4Digit" value = "2222" desc="Last 4 digits of Card Number"></PDFField>
+<PDFField key ="FeePaymentFormCharge" value = "20000" desc="Charge Amount"></PDFField>
+<PDFField key ="FeePaymentFormCardHolderSign" value = "" desc="Card Holder Sign not to be feeded"></PDFField>
+<PDFField key ="FeePaymentFormDay" value = "20" desc="Payment Day"></PDFField>
+<PDFField key ="FeePaymentFormMonth" value = "11" desc="Payment Month"></PDFField>
+<PDFField key ="FeePaymentFormYear" value = "2019" desc="Payment Year (YYYY)"></PDFField>
+<PDFField key ="FeePaymentFormCardNumber" value = "2222333344445555" desc="Credit Card Number"></PDFField>
+<PDFField key ="FeePaymentFormExpiryDateMonth" value = "12" desc="Card Expiry Month"></PDFField>
+<PDFField key ="FeePaymentFormExpiryDateYear" value = "2019" desc="Card Expiry Year"></PDFField>
+<PDFField key ="TFWInfoWorker1FamilyName" value = "Singh" desc="TFW Info Worker1 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker1FirstName" value = "Nikhil" desc="TFW Info Worker1 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker1Gender" value = "0" desc="TFW Info Worker1 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker1DOB" value = "1985-06-27" desc="TFW Info Worker1 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker1Citizenship" value = "Indian" desc="TFW Info Worker1 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker1PrimaryResidenceOutsideCanadaCity" value = "Ranchi" desc="TFW Info Worker1 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker1PrimaryResidenceOutsideCanadaCountry" value = "India" desc="TFW Info Worker1 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaCity" value = "" desc="TFW Info Worker1 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaCountry" value = "" desc="TFW Info Worker1 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaStatusTFW" value = "" desc="TFW Info Worker1 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaStatusVisitor" value = "" desc="TFW Info Worker1 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaStatusStudent" value = "" desc="TFW Info Worker1 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker1InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker1 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker2FamilyName" value = "" desc="TFW Info Worker2 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker2FirstName" value = "" desc="TFW Info Worker2 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker2Gender" value = "" desc="TFW Info Worker2 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker2DOB" value = "" desc="TFW Info Worker2 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker2Citizenship" value = "" desc="TFW Info Worker2 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker2PrimaryResidenceOutsideCanadaCity" value = "" desc="TFW Info Worker2 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker2PrimaryResidenceOutsideCanadaCountry" value = "" desc="TFW Info Worker2 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaCity" value = "" desc="TFW Info Worker2 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaCountry" value = "" desc="TFW Info Worker2 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaStatusTFW" value = "" desc="TFW Info Worker2 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaStatusVisitor" value = "" desc="TFW Info Worker2 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaStatusStudent" value = "" desc="TFW Info Worker2 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker2InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker2 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker3FamilyName" value = "" desc="TFW Info Worker3 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker3FirstName" value = "" desc="TFW Info Worker3 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker3Gender" value = "" desc="TFW Info Worker3 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker3DOB" value = "" desc="TFW Info Worker3 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker3Citizenship" value = "" desc="TFW Info Worker3 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker3PrimaryResidenceOutsideCanadaCity" value = "" desc="TFW Info Worker3 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker3PrimaryResidenceOutsideCanadaCountry" value = "" desc="TFW Info Worker3 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaCity" value = "" desc="TFW Info Worker3 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaCountry" value = "" desc="TFW Info Worker3 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaStatusTFW" value = "" desc="TFW Info Worker3 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaStatusVisitor" value = "" desc="TFW Info Worker3 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaStatusStudent" value = "" desc="TFW Info Worker3 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker3InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker3 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker4FamilyName" value = "" desc="TFW Info Worker4 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker4FirstName" value = "" desc="TFW Info Worker4 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker4Gender" value = "" desc="TFW Info Worker4 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker4DOB" value = "" desc="TFW Info Worker4 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker4Citizenship" value = "" desc="TFW Info Worker4 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker4PrimaryResidenceOutsideCanadaCity" value = "" desc="TFW Info Worker4 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker4PrimaryResidenceOutsideCanadaCountry" value = "" desc="TFW Info Worker4 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaCity" value = "" desc="TFW Info Worker4 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaCountry" value = "" desc="TFW Info Worker4 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaStatusTFW" value = "" desc="TFW Info Worker4 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaStatusVisitor" value = "" desc="TFW Info Worker4 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaStatusStudent" value = "" desc="TFW Info Worker4 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker4InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker4 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker5FamilyName" value = "" desc="TFW Info Worker5 FamilyName"></PDFField>
+<PDFField key ="TFWInfoWorker5FirstName" value = "" desc="TFW Info Worker5 FirstName"></PDFField>
+<PDFField key ="TFWInfoWorker5Gender" value = "" desc="TFW Info Worker5 GenderPut 0 for Male and 1 for Female"></PDFField>
+<PDFField key ="TFWInfoWorker5DOB" value = "" desc="TFW Info Worker5 DOB(YYYY-MM-DD)"></PDFField>
+<PDFField key ="TFWInfoWorker5Citizenship" value = "" desc="TFW Info Worker5 Citizenship"></PDFField>
+<PDFField key ="TFWInfoWorker5PrimaryResidenceOutsideCanadaCity" value = "" desc="TFW Info Worker5 PrimaryResidenceOutsideCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker5PrimaryResidenceOutsideCanadaCountry" value = "" desc="TFW Info Worker5 PrimaryResidenceOutsideCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaCity" value = "" desc="TFW Info Worker5 InCanadaCity"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaCountry" value = "" desc="TFW Info Worker5 InCanadaCountry"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaStatusTFW" value = "" desc="TFW Info Worker5 Put 1 for TFW Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaStatusVisitor" value = "" desc="TFW Info Worker5 Put 1 for Visitor Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaStatusStudent" value = "" desc="TFW Info Worker5 Put 1 for Student Status in Canada"></PDFField>
+<PDFField key ="TFWInfoWorker5InCanadaStatusRefugeeClaimant" value = "" desc="TFW Info Worker5 Put 1 for Refugee Claimant Status in Canada"></PDFField>
+</PDFFields>
+</PDFAllFields>
