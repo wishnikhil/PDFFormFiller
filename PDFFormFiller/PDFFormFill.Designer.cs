@@ -36,7 +36,7 @@
             this.txtEditedPDFFolder = new System.Windows.Forms.TextBox();
             this.btnGenerateEditedPDF = new System.Windows.Forms.Button();
             this.lblInputPDF = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lblEditedPath = new System.Windows.Forms.Label();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -123,14 +123,14 @@
             this.lblInputPDF.TabIndex = 6;
             this.lblInputPDF.Text = "Original PDF";
             // 
-            // label2
+            // lblEditedPath
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(19, 70);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(97, 13);
-            this.label2.TabIndex = 7;
-            this.label2.Text = "Edited PDF Path";
+            this.lblEditedPath.AutoSize = true;
+            this.lblEditedPath.Location = new System.Drawing.Point(19, 70);
+            this.lblEditedPath.Name = "lblEditedPath";
+            this.lblEditedPath.Size = new System.Drawing.Size(97, 13);
+            this.lblEditedPath.TabIndex = 7;
+            this.lblEditedPath.Text = "Edited PDF Path";
             // 
             // progressBar1
             // 
@@ -146,7 +146,7 @@
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(735, 270);
             this.Controls.Add(this.progressBar1);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.lblEditedPath);
             this.Controls.Add(this.lblInputPDF);
             this.Controls.Add(this.btnGenerateEditedPDF);
             this.Controls.Add(this.btnOutputFolder);
@@ -179,7 +179,7 @@
         private System.Windows.Forms.TextBox txtEditedPDFFolder;
         private System.Windows.Forms.Button btnGenerateEditedPDF;
         private System.Windows.Forms.Label lblInputPDF;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblEditedPath;
         private System.Windows.Forms.ProgressBar progressBar1;
     }
 }

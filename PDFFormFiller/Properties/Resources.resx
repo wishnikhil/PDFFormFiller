@@ -117,6 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="btnBrowseInput" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="btnBrowseOutput" xml:space="preserve">
+    <value>Browse Folder</value>
+  </data>
+  <data name="btnGenerateEditPDF" xml:space="preserve">
+    <value>Generate Edited PDF</value>
+  </data>
+  <data name="ErrorMessage1" xml:space="preserve">
+    <value>Both Original PDF File and Edited PDF Path are mandatory</value>
+  </data>
+  <data name="InputLabel" xml:space="preserve">
+    <value>Original PDF File</value>
+  </data>
+  <data name="OutputDirectory" xml:space="preserve">
+    <value>Edited PDF Path</value>
+  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="vanhack" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\vanhack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

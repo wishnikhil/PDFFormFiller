@@ -22,7 +22,7 @@ namespace PDFFormFiller.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace PDFFormFiller.Properties {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PDFFormFiller.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace PDFFormFiller.Properties {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -61,9 +61,63 @@ namespace PDFFormFiller.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Browse.
+        /// </summary>
+        public static string btnBrowseInput {
+            get {
+                return ResourceManager.GetString("btnBrowseInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Browse Folder.
+        /// </summary>
+        public static string btnBrowseOutput {
+            get {
+                return ResourceManager.GetString("btnBrowseOutput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Generate Edited PDF.
+        /// </summary>
+        public static string btnGenerateEditPDF {
+            get {
+                return ResourceManager.GetString("btnGenerateEditPDF", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Both Original PDF File and Edited PDF Path are mandatory.
+        /// </summary>
+        public static string ErrorMessage1 {
+            get {
+                return ResourceManager.GetString("ErrorMessage1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Original PDF File.
+        /// </summary>
+        public static string InputLabel {
+            get {
+                return ResourceManager.GetString("InputLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edited PDF Path.
+        /// </summary>
+        public static string OutputDirectory {
+            get {
+                return ResourceManager.GetString("OutputDirectory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap vanhack {
+        public static System.Drawing.Bitmap vanhack {
             get {
                 object obj = ResourceManager.GetObject("vanhack", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));

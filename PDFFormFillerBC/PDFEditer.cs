@@ -9,6 +9,7 @@ namespace PDFFormFillerBC
 {
     public class PDFEditer
     {
+        // Edit PDF File method taking parameters from calling party
         public string EditPDFFile(string originalPDF, string editedPDFFolderPath, string keyValuePairsFile, 
             string pdfFormDetailXML, string newPDFFileNameKey, string xmlDataDescendantsMain, string xmlDataDescendantsField)
         {
@@ -38,7 +39,8 @@ namespace PDFFormFillerBC
                     dict = xEl.Descendants(xmlDataDescendantsField).ToDictionary(
                     x => x.Attribute("key").Value,
                     x => x.Attribute("value").Value);
-                    editedPDFFilePath = editedPDFFolderPath + "\\" + originalPDF.Split('\\').Last() + "_" + dict[newPDFFileNameKey] + ".pdf";
+                    editedPDFFilePath = editedPDFFolderPath + "\\" + originalPDF.Split('\\').Last().Substring(0,
+                        originalPDF.Split('\\').Last().Length-4) + "_" + dict[newPDFFileNameKey] + ".pdf";
 
                     //Creating a new PDF File taking the duplicate copy of original file
                     pdfStamper = new PdfStamper(pdfReader, new FileStream(editedPDFFilePath, FileMode.Create));
